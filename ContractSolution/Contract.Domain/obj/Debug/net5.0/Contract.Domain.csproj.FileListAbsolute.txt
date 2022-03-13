@@ -1,0 +1,15 @@
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\bin\Debug\net5.0\Contract.Domain.deps.json
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\bin\Debug\net5.0\Contract.Domain.dll
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\bin\Debug\net5.0\ref\Contract.Domain.dll
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\bin\Debug\net5.0\Contract.Domain.pdb
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.csproj.AssemblyReference.cache
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.AssemblyInfoInputs.cache
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.AssemblyInfo.cs
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.csproj.CoreCompileInputs.cache
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.dll
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\ref\Contract.Domain.dll
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.pdb
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\bin\Debug\net5.0\Contract.Domain.runtimeconfig.json
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\bin\Debug\net5.0\Contract.Domain.runtimeconfig.dev.json
+D:\Lesson\HorizoneTasks\ContractSolution\Contract.Domain\obj\Debug\net5.0\Contract.Domain.genruntimeconfig.cache
